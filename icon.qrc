@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>pic/fast-forward-button.png</file>
+        <file>pic/pause.png</file>
+        <file>pic/play.png</file>
+        <file>pic/rewind-button.png</file>
+        <file>pic/mute.png</file>
+        <file>pic/sound.png</file>
+        <file>pic/silder.png</file>
+        <file>pic/R-C.png</file>
+        <file>pic/douyin.ico</file>
+        <file>pic/New_Song_Chart.jpg</file>
+        <file>pic/Original_list.jpg</file>
+        <file>pic/Hot_Song_Chart.jpg</file>
+        <file>pic/Soaring_list.jpg</file>
+    </qresource>
+</RCC>
